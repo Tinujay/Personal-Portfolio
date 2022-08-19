@@ -1,0 +1,44 @@
+body {
+    background-color:lightpink;
+}
+
+.img-eye {
+    height:150px;
+}
+
+h3 {
+    color:darkmagenta
+
+}
+
+.darkpink {
+    background-color:palevioletred
+}
+
+.gray {
+    background-color:rgb(164, 201, 235)
+
+}
+
+.computer {
+    height: 150px;
+}
+
+h1 {
+    font-family: 'DynaPuff', cursive;
+    font-size: 300%;
+}
+
+.charlie {
+    height:250px
+
+}
+
+.paint {
+    height: 200px
+}
+
+p {
+    padding:0px;
+    margin:0px;
+}
