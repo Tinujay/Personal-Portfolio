@@ -12,7 +12,7 @@ h3 {
 }
 
 .darkpink {
-    background-color:palevioletred
+    background-color:palevioletred 
 }
 
 .gray {
@@ -41,4 +41,12 @@ h1 {
 p {
     padding:0px;
     margin:0px;
+}
+
+.border {
+border: 5px solid
+}
+
+.border2 {
+    border: 5px solid
 }
